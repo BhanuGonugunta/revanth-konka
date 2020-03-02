@@ -1,0 +1,10 @@
+
+    {  
+        "employee": {  
+            "name": "kobe braynt",   
+            "salary":56000,   
+            "married":true,
+            "email":"kobe24@gmail.com",
+            "mobile":9618624428 
+        }  
+    } 
